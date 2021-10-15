@@ -1,7 +1,5 @@
 ## Olá, pessoal! Eu sou Athílio Cavalcanti!
 
-<img width="120rem" height="100rem" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
-
 - 🌱 Estudando...
 - 😄 Pronomes: ele/dele
 
