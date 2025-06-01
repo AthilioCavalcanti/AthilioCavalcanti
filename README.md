@@ -1,6 +1,6 @@
 ## Hello world!
 
 - :wave: Hi, I’m @AthilioCavalcanti
-- :eyes: I’m interested in front-end web development and data analytics
-- :seedling: I’m currently learning Typescript and Python
+- :eyes: I’m interested in front-end web and mobile development
+- :seedling: I’m currently learning Dart and Flutter
 - :mailbox: How to reach me athiliocavalcanti@gmail.com
